@@ -1,1 +1,1 @@
-For more than three years I have been exploring the secrets of programming, mainly back-end development. After I had become familiar with various programming languages, both front-end and back-end, I chose the Microsoft technologies.
+For a couple of years I have been exploring the secrets of programming, mainly back-end development. After I had become familiar with various programming languages, both front-end and back-end, I chose the Microsoft technologies.
